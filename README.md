@@ -7,6 +7,5 @@
 - 🤔 I’m looking for help with Haskell
 - 💬 Ask me about (Python - JavaScript - C - C++) or any tech related stuff
 - 📫 How to reach me: Twitter: @ahmad_zaabal
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I listen to metal while I am working 😅
 
