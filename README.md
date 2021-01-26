@@ -4,7 +4,7 @@
 A computer science enthusiast with a multi disciplinary vision, a person who always seeks to be guru under any circumstances by learning new technologies like (AI, Blockchain, etc) and focusing on self development and moderating his interpersonal skills by helping and learning from the others.
 I am merely an explorer of infinity in the pursuit of absolute perfection
 
-<p align="left"> <a href="https://twitter.com/ahmadzaabal" target="blank"/> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ahmedzaabal?label=Follow%20%40ahmedzaabal&logo=twitter&style=for-the-badge"></p>
+<p align="left"> <a href="https://twitter.com/ahmadzaabal" target="blank"/> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ahmedzaabal?label=Follow%20%40ahmedzaabal&logo=twitter&style=for-the-badge"></a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAdelFahmyHassanIbrahim&show_icons=true&locale=en" alt="Ahmed Adel" /></p>
 
