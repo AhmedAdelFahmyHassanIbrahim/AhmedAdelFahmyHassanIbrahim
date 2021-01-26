@@ -1,5 +1,10 @@
-### Hola, I am Ahmed Adel, aka DOLA 👋
+### hi, DOLA is here 👋
 
+**A little bit about me** <br/>
+A computer science enthusiast with a multi disciplinary vision, a person who always seeks to be guru under any circumstances by learning new technologies like (AI, Blockchain, etc) and focusing on self development and moderating his interpersonal skills by helping and learning from the others.
+I am merely an explorer of infinity in the pursuit of absolute perfection
+
+<p align="left"> <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fahmad_zaabal"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social"></a> </p>
 
 - 🔭 I’m currently working on writing automation scripts for AIX Operating System
 - 🌱 I’m currently learning JavaScript
