@@ -27,3 +27,5 @@ I am merely an explorer of infinity in the pursuit of absolute perfection
 <a href="https://fb.com/ahmedadel.fahmy.31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rashaddism" height="30" width="40" color = "white"/></a>
 </p>
 
+## Let's stay in touch
+📧  email : **ahmed.hedia@ieeeypegypt.org**
