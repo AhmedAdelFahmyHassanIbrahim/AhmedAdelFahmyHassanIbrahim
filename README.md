@@ -6,7 +6,7 @@ I am merely an explorer of infinity in the pursuit of absolute perfection
 
 <p align="left"> <a href="https://twitter.com/ahmadzaabal" target="blank"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ahmedzaabal?label=Follow%20%40ahmedzaabal&logo=twitter&style=for-the-badge"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAdelFahmyHassanIbrahim&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedrashad&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="mohammedrashad" /></p>
 
 - 🔭 I’m currently working on writing automation scripts for AIX Operating System
 - 🌱 I’m currently learning JavaScript
